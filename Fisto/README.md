@@ -1,4 +1,4 @@
-# A discord bot with custom meme commands
+# Fisto
 
 
 <h5>COMMANDS</h5>
