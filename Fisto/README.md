@@ -13,8 +13,8 @@
 `!!fface`<br />
 
 
-<span style="color:red"> red </span>
-<span style="color:gray"><small>(!!) placeholder for a command prefix</small></span>
+
+<span style="color:gray">(!!) placeholder for a command prefix</span>
 
 
 
