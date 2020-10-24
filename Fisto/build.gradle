@@ -1,0 +1,27 @@
+plugins {
+    id'java'
+    id'application'
+    id'com.github.johnrengelman.shadow' version '4.0.4'
+}
+
+mainClassName = "com.sylar.fisto.Bot"
+
+
+version '1.0'
+
+
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile group: 'net.dv8tion', name: 'JDA', version: '4.2.0_209'
+    compile group: 'com.jagrosh', name: 'jda-utilities', version: '3.0.1'
+    compile group: 'me.duncte123', name: 'botCommons', version: '1.0.45'
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.3'
+    compile group: 'io.github.cdimascio', name: 'java-dotenv', version: '5.2.2'
+}
+
+compileJava.options.encoding = 'UTF-8'
+
