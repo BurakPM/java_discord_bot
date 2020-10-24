@@ -14,7 +14,7 @@
 
 
 
-(!!)<u>placeholder for a command prefix</u>
-<bold>be sure to populate .env file</bold>
+(!!) *placeholder for a command prefix* <br/>
+**make sure to populate .env file**  <br/>
 
 
