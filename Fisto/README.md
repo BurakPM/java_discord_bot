@@ -14,6 +14,6 @@
 
 
 
-<tt> (!!) placeholder for a command prefix </tt>
+(!!)<u> placeholder for a command prefix</u>
 
 
