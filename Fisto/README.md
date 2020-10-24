@@ -14,7 +14,6 @@
 
 
 
-<span style="color:gray">(!!) placeholder for a command prefix</span>
-
+<tt> (!!) placeholder for a command prefix </tt>
 
 
