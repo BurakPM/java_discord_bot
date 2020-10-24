@@ -12,6 +12,9 @@
 `!!tifu`<br />
 `!!fface`<br />
 
-<small>(!!) placeholder for a command prefix</small>
 
-_Fisto is programmed to please_.<br />
+<span style="color:red"> red </span>
+<span style="color:gray"><small>(!!) placeholder for a command prefix</small></span>
+
+
+
