@@ -37,7 +37,7 @@ public class Bot {
                     .disableCache(flags)
                     .setMemberCachePolicy(MemberCachePolicy.ONLINE)
                     .addEventListeners(new Listener())
-                    .setActivity(Activity.watching("Boku No Pico"))
+                    .setActivity(Activity.watching(""))
                     .setActivity(Activity.listening("!!help"))
                     .build();
         } catch (LoginException e) {
